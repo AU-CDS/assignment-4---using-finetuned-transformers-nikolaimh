@@ -1,7 +1,7 @@
 # Assignment 4 - Using finetuned transformers via HuggingFace
 
 ## 1.	Contributions
-Beyond troubleshooting errors with various guides, Stackoverflow pages, and ChatGPT, I was the only contributor to this assignment, and the code was written by me, taking some notes from in-class work.
+Beyond troubleshooting errors with various guides, Stackoverflow pages, and ChatGPT, I was the only contributor to this assignment and the code itself was written by me, taking some notes from in-class work.
 
 ## 2.	Assignment Description
 “In previous assignments, you've done a lot of model training of various kinds of complexity, such as training document classifiers or RNN language models. This assignment is more like Assignment 1, in that it's about feature extraction.
