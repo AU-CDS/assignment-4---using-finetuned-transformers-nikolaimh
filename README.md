@@ -10,9 +10,9 @@ You should write code and documentation which addresses the following tasks:
 -	Initalize a HuggingFace pipeline for emotion classification
 -	Perform emotion classification for every headline in the data
 -	Assuming the most likely prediction is the correct label, create tables and visualisations which show the following: 
-  -	Distribution of emotions across all of the data
-  -	Distribution of emotions across only the real news
-  -	Distribution of emotions across only the fake news
+    - Distribution of emotions across all of the data
+    - Distribution of emotions across only the real news
+    - Distribution of emotions across only the fake news
 -	Comparing the results, discuss if there are any key differences between the two sets of headlines”
 
 ## 3.	Methods
